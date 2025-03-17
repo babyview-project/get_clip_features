@@ -1,0 +1,10 @@
+{
+    "transcripts_folder": "",
+    "frames_folder": "",
+    "videos_folder": "",
+    "save_folder": "/data/tsepuri/v20240507",
+    "old_save_folder": "/data/yinzi/babyview_20240507/all_clip_results_large_v3_adult_only",
+    "frame_batch_size": 512,
+    "clip_batch_size": 256,
+    "prefetch": 100
+}
