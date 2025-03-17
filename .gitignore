@@ -1,1 +1,3 @@
-.DS_Store
+venv
+.Rproj.user
+**/.DS_Store
